@@ -6,7 +6,7 @@ Frontend Web Developer
 
 ideas into real, interactive products using JavaScript and React. I focus on performance, responsiveness, and user experience. I am constantly improving, learning new technologies, and striving to write clean, high-quality code. Always open to new challenges and collaboration on interesting projects.
 
-* 🌍  I'm based in Узбекистан
+* 🌍  I'm based in Uzbekistan
 * 🖥️  See my portfolio at [MyPortfolio](http://https://porfolio-kamron.vercel.app/)
 * ✉️  You can contact me at [kama58077@gmail.com](mailto:kama58077@gmail.com)
 * 🧠  I'm currently learning Node js
