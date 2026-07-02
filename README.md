@@ -1,148 +1,144 @@
-<div align="center">
+Jumpinto IELTS
+Jumpinto
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Kamron%20Fazilov&fontSize=45&fontAlign=50&fontAlignY=35&color=0:4F46E5,50:7C3AED,100:2563EB&animation=fadeIn&fontColor=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript;React;Clean+Code;Responsive+UI)](https://git.io/typing-svg)
+Light Mode
 
-</div>
+Login
+PASSAGE 1
+You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1.
 
----
+Stepwells
+A millennium ago, stepwells were fundamental to life in the driest parts of India. Richard Cox travelled to north-western India to document these spectacular monuments from a bygone era
+During the sixth and seventh centuries, the inhabitants of the modern-day states of Gujarat and Rajasthan in north-western India developed a method of gaining access to clean, fresh groundwater during the dry season for drinking, bathing, watering animals and irrigation. However, the significance of this invention - the stepwell - goes beyond its utilitarian application.
 
-## 👨‍💻 About
+Unique to this region, stepwells are often architecturally complex and vary widely in size and shape. During their heyday, they were places of gathering, of leisure and relaxation and of worship for villagers of all but the lowest classes.2 Most stepwells are found dotted round the desert areas of Gujarat (where they are called "vav") and Rajasthan (where they are called "baori"), while a few also survive in Delhi.1 Some were located in or near villages as public spaces for the community; others were positioned beside roads as resting places for travellers.
 
-```js
-const kamron = {
-  location: "Uzbekistan 🇺🇿",
-  role: "Frontend Developer",
-  stack: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Redux",
-    "Tailwind CSS",
-    "Node.js",
-    "MongoDB",
-    "PostgreSQL"
-  ]
-};
-```
+As their name suggests, stepwells comprise a series of stone steps descending from ground level to the water source (normally an underground aquifer) as it recedes following the rains. When the water level was high, the user needed only to descend a few steps to reach it; when it was low, several levels would have to be negotiated.5
 
----
+Some wells are vast, open craters with hundreds of steps paving each sloping side, often in tiers. Others are more elaborate, with long stepped passages leading to the water via several storeys. Built from stone and supported by pillars, they also included pavilions that sheltered visitors from the relentless heat.6 But perhaps the most impressive features are the intricate decorative sculptures that embellish many stepwells, showing activities from fighting and dancing to everyday acts such as women combing their hair or churning butter.
 
-## 🌐 Contacts
+Down the centuries, thousands of wells were constructed throughout north-western India, but the majority have now fallen into disuse; many are derelict and dry, as groundwater has been diverted for industrial use and the wells no longer reach the water table. Their condition hasn't been helped by recent dry spells: southern Rajasthan suffered an eight-year drought between 1996 and 2004.7
 
-<div align="center">
+However, some important sites in Gujarat have recently undergone major restoration, and the state government announced in June last year that it plans to restore the stepwells throughout the state.
 
-<a href="https://porfolio-kamron.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Kamron5505"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://t.me/programmer_1107"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/></a>
-<a href="https://instagram.com/kamron_0955"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
-<a href="https://www.linkedin.com/in/kamron-fazilov-5494a1419/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:kama58077@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
+In Patan, the state's ancient capital, the stepwell of "Rani Ki Vav" (Queen's Stepwell) is perhaps the finest current example. It was built by Queen Udayamati during the late 11th century, but became silted up following a flood during the 13th century. But the Archaeological Survey of India began restoring it in the 1960s, and today it is in pristine condition. At 65 metres long, 20 metres wide and 27 metres deep, "Rani Ki Vav" features 500 sculptures carved into niches throughout the monument. Incredibly, in January 2001, this ancient structure survived an earthquake that measured 7.6 on the Richter scale.9
 
-</div>
+Another example is the "Surya Kund" in Modhera, northern Gujarat, next to the Sun Temple, built by King Bhima I in 1026 to honour the sun god Surya. It actually resembles a tank ("kund" means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation.10,11 The terraces house 108 small, intricately carved shrines between the sets of steps.
 
----
+Rajasthan also has a wealth of wells. The ancient city of Bundi, 200 kilometres south of Jaipur, is renowned for its architecture, including its stepwells. One of the larger examples is "Raniji Ki Baori", which was built by the queen of the region, Nathavatji, in 1699. At 46 metres deep, 20 metres wide and 40 metres long, the intricately carved monument is one of 21 "baoris" commissioned in the Bundi area by Nathavatji.
 
-## ⚡ Tech Stack
+In the old ruined town of Abhaneri, about 95 kilometres east of Jaipur, is "Chand Baori", one of India's oldest and deepest wells; aesthetically it's perhaps one of the most dramatic. Built in around 850 AD next to the temple of Harshat Mata, the "baori" comprises hundreds of zigzagging steps that run along three of its sides, steeply descending 11 storeys, resulting in a striking pattern when seen from afar. On the fourth side, verandas which are supported by ornate pillars overlook the steps.12
 
-<div align="center">
+Still in public use is "Neemrana Ki Baori", located just off the Jaipur-Delhi highway. Constructed in around 1700, it is nine storeys deep, with the last two being underwater.13 At ground level, there are 86 colonnaded openings from where the visitor descends 170 steps to the deepest water source.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,mongodb,postgres,git,github,figma,vscode"/>
+Today, following years of neglect, many of these monuments to medieval engineering have been saved by the Archaeological Survey of India, which has recognised the importance of preserving them as part of the country's rich history. Tourists flock to wells in far-flung corners of north-western India to gaze in wonder at these architectural marvels from hundreds of years ago, which serve as a reminder of both the ingenuity and artistry of ancient civilisations and of the value of water to human existence.8
 
-</div>
+Not Given:
+3
+4
+Questions 1-5
+Do the following statements agree with the information given in Reading Passage 1?
 
----
+In boxes 1-5 on your answer sheet, choose
 
-## 📊 GitHub Stats
+TRUE	if the statement agrees with the information
+FALSE	if the statement contradicts the information
+NOT GIVEN	if there is no information on this
+1
+Examples of ancient stepwells can be found all over the world.
 
-<div align="center">
+TRUE
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kamron5505&show_icons=true&theme=tokyonight&hide_border=true"/>
+FALSE
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamron5505&layout=compact&theme=tokyonight&hide_border=true"/>
+NOT GIVEN
+2
+Stepwells had a range of functions, in addition to those related to water collection.
 
-</div>
+TRUE
 
----
+FALSE
 
-## 🔥 Streak
+NOT GIVEN
+3
+The few existing stepwells in Delhi are more attractive than those found elsewhere.
 
-<div align="center">
+TRUE
 
-<img src="https://streak-stats.demolab.com?user=Kamron5505&theme=tokyonight&hide_border=true"/>
+FALSE
 
-</div>
+NOT GIVEN
+4
+It took workers many years to build the stone steps characteristic of stepwells.
 
----
+TRUE
 
-## 🏆 Trophy
+FALSE
 
-<div align="center">
+NOT GIVEN
+5
+The number of steps above the water level in a stepwell altered during the course of a year.
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kamron5505&theme=tokyonight&no-frame=true&margin-w=12"/>
+TRUE
 
-</div>
+FALSE
 
----
+NOT GIVEN
+Questions 6-8
+Complete the sentences below.
 
-## 📈 Activity
+Choose ONE WORD ONLY from the passage for each answer.
 
-<div align="center">
+Write your answers in boxes 6-8 on your answer sheet.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamron5505&theme=tokyo-night&hide_border=true"/>
+6
+Which part of some stepwells provided shade for people?
+6
+7
+What type of serious climatic event, which took place in southern Rajasthan, is mentioned in the article?
+7
+8
+Who are frequent visitors to stepwells nowadays?
+8
+Questions 9-13
+Complete the table below.
 
-</div>
+Choose ONE WORD AND/OR A NUMBER from the passage for each answer.
 
----
+Write your answers in boxes 9-13 on your answer sheet.
 
-## 🐍 Snake
+Stepwell	Date	Features	Other notes
+Rani Ki Vav	Late 11th century	As many as 500 sculptures decorate the monument	
+Restored in the 1960s
+Excellent condition, despite the
+9
+of 2001
+Surya Kund	1026	
+Steps on the
+10
+produce a geometrical pattern
+Carved shrines
+Looks more like a
+11
+than a well
+Raniji Ki Baori	1699	Intricately carved monument	One of 21 baoris in the area commissioned by Queen Nathavatji
+Chand Baori	850 AD	Steps take you down 11 storeys to the bottom	
+Old, deep and very dramatic
+Has
+12
+which provide a view of the steps
+Neemrana Ki Baori	1700	Has two
+13
+levels	Used by public today
+Listening
 
-<div align="center">
+2
+3
+Writing
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+Highlight
 
-</div>
+Clear
 
----
-
-## 👀 Visitors
-
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/Kamron5505/count.svg"/>
-
-</div>
-
----
-
-## 🚀 Featured
-
-- 🌐 Portfolio — https://porfolio-kamron.vercel.app/
-- 💻 GitHub — https://github.com/Kamron5505
-
----
-
-## 💬 Quote
-
-> *"First, solve the problem. Then, write the code."*
-
----
-
-## 💻 Coding
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:7C3AED,100:2563EB"/>
-
-</div>
+Notes
