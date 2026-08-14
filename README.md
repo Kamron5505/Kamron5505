@@ -14,23 +14,18 @@
 
 <!-- Badges -->
 
+
+<!-- Badges -->
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Kamron5505&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
- 
-
-<img src="https://img.shields.io/github/followers/Kamron5505?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="GitHub Followers" />
-
- 
-
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
-
- 
-
-<img src="https://img.shields.io/badge/Lives-Tashkent%2C%20Uzbekistan-success?style=for-the-badge" alt="Location" />
+<img src="https://komarev.com/ghpvc/?username=Kamron5505&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Kamron5505?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="GitHub Followers"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus"/>
+<img src="https://img.shields.io/badge/Lives-Tashkent%2C%20Uzbekistan-success?style=for-the-badge" alt="Location"/>
 
 </div>
+
 
 <br/>
 
